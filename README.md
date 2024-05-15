@@ -1,6 +1,6 @@
 # 📚 API de Cursos (CRUD)
 
-Uma API básica que faz conexão com um banco de dados PostgreSQL e realiza operações de CRUD básicas.
+Uma API básica que faz conexão com banco de dados PostgreSQL e realiza operações de CRUD básicas.
 
 ## 🛠️ Instalação
 
